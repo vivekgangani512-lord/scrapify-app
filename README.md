@@ -20,9 +20,6 @@ The app connects home owners with scrap dealers through a bidding workflow syste
 - RecyclerView
 - Material UI
 
-## Screenshots
-
-
 ## Project Structure
 - User Module
 - Dealer Module
