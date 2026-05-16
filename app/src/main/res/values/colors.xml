@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Green Palette -->
+    <color name="primary">#1B5E20</color>
+    <color name="primary_medium">#2E7D32</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="primary_container">#E8F5E9</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Accent Orange -->
+    <color name="accent">#E65100</color>
+    <color name="accent_light">#FF6D00</color>
+    <color name="accent_container">#FFF3E0</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#F2F7F3</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#EDF4EE</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A2C1E</color>
+    <color name="text_secondary">#4A6351</color>
+    <color name="text_hint">#8FA99A</color>
+
+    <!-- Status: OPEN -->
+    <color name="status_open_text">#1565C0</color>
+    <color name="status_open_bg">#E3F2FD</color>
+
+    <!-- Status: BIDDING -->
+    <color name="status_bidding_text">#E65100</color>
+    <color name="status_bidding_bg">#FFF3E0</color>
+
+    <!-- Status: DEALT -->
+    <color name="status_dealt_text">#1B5E20</color>
+    <color name="status_dealt_bg">#E8F5E9</color>
+
+    <!-- Status: PENDING -->
+    <color name="status_pending_text">#616161</color>
+    <color name="status_pending_bg">#F5F5F5</color>
+
+    <!-- Status: ACCEPTED -->
+    <color name="status_accepted_text">#1B5E20</color>
+    <color name="status_accepted_bg">#E8F5E9</color>
+
+    <!-- Status: REJECTED -->
+    <color name="status_rejected_text">#B71C1C</color>
+    <color name="status_rejected_bg">#FFEBEE</color>
+
+    <!-- Divider / Outline -->
+    <color name="divider">#DDE8DF</color>
+    <color name="outline">#B0C4B5</color>
+
+    <!-- Category Colors -->
+    <color name="cat_iron">#455A64</color>
+    <color name="cat_copper">#BF360C</color>
+    <color name="cat_aluminium">#1565C0</color>
+    <color name="cat_plastic">#00695C</color>
+    <color name="cat_paper">#5D4037</color>
+    <color name="cat_ewaste">#4527A0</color>
+    <color name="cat_glass">#00838F</color>
+    <color name="cat_brass">#F57F17</color>
+    <color name="cat_battery">#558B2F</color>
+    <color name="cat_mixed">#6D4C41</color>
+
+    <!-- Legacy -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

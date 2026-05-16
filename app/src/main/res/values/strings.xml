@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ScrapBid</string>
+    <string name="app_tagline">Turn your scrap into cash</string>
+
+    <!-- Auth -->
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="home_owner">Home Owner</string>
+    <string name="scrap_dealer">Scrap Dealer</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="your_address">Your Address</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Log In</string>
+    <string name="logout">Log Out</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_my_scraps">My Scraps</string>
+    <string name="nav_deals">Deals</string>
+    <string name="nav_browse">Browse</string>
+    <string name="nav_my_bids">My Bids</string>
+
+    <!-- Scrap -->
+    <string name="add_scrap">Add Scrap</string>
+    <string name="upload_scrap">Upload Scrap</string>
+    <string name="select_category">Select Category</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="asking_price">Asking Price (₹)</string>
+    <string name="pickup_address">Pickup Address</string>
+    <string name="description_optional">Description (optional)</string>
+    <string name="suggested_price">Suggested: ₹%1$.0f</string>
+    <string name="submit_scrap">Submit Scrap</string>
+    <string name="no_scraps">No scraps uploaded yet.\nTap + to add your first scrap.</string>
+
+    <!-- Bids -->
+    <string name="bids_received">Bids Received</string>
+    <string name="no_bids">No bids yet.\nDealers will bid on your scrap soon.</string>
+    <string name="accept_bid">Accept Bid</string>
+    <string name="place_bid">Place Bid</string>
+    <string name="your_bid_price">Your Bid Price (₹)</string>
+    <string name="note_to_seller">Note to seller (optional)</string>
+    <string name="bid_submitted">Bid submitted successfully!</string>
+    <string name="no_available_scraps">No scraps available right now.\nCheck back soon.</string>
+    <string name="no_my_bids">You haven\'t placed any bids yet.</string>
+
+    <!-- Deals -->
+    <string name="my_deals">My Deals</string>
+    <string name="no_deals">No deals yet.</string>
+    <string name="deal_confirmed">Deal Confirmed!</string>
+    <string name="final_price">Final Price: ₹%1$.0f</string>
+
+    <!-- Common -->
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="back">Back</string>
+    <string name="total_value">Total Value: ₹%1$.0f</string>
+    <string name="per_kg">₹%1$.0f/kg</string>
+    <string name="kg_format">%1$.1f kg</string>
+</resources>
